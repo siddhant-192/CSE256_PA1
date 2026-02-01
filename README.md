@@ -65,7 +65,7 @@ scikit-learn>=0.24.0
 
 1. **Clone or download the repository:**
    ```bash
-   cd CSE256_PA1_WI26
+   cd CSE256_PA1
    ```
 
 2. **Install required packages:**
